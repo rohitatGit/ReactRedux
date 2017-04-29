@@ -14,5 +14,10 @@
     "reactr"
   ],
   "author": "rohit",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
 }
